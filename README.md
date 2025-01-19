@@ -18,13 +18,13 @@ Este script de PowerShell te permite obtener y visualizar las configuraciones pr
 
 1. Clona este repositorio o descarga el script directamente:
    ```bash
-   git clone https://github.com/cinqueles09/validacionDefender.git
+   git clone https://github.com/cinqueles09/MDE-ConfigScanner.git
    ```
 2. Abre PowerShell con permisos de administrador.
 3. Navega al directorio donde descargaste el script.
 4. Ejecuta el script:
    ```powershell
-   .\Defender-Analitycs.ps1
+   .\Get-MDEConfig.ps1
    ```
 
    Al ejecutarlo, se mostrará un resumen detallado de las configuraciones principales de MDE aplicadas en el dispositivo.
