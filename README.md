@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/dc6fbee8-0351-4414-8626-994134e6e28f" alt="Imagen" width="300" height="300">
+
 # Obtener la Configuración de Microsoft Defender for Endpoint (MDE)
 
 Este script de PowerShell te permite obtener y visualizar las configuraciones principales de **Microsoft Defender for Endpoint (MDE)** aplicadas en un equipo. Es una herramienta útil para administradores de TI y especialistas en seguridad que necesitan validar o diagnosticar configuraciones de seguridad.
