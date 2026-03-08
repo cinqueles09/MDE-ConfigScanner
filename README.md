@@ -35,7 +35,7 @@ Este script de PowerShell te permite obtener y visualizar las configuraciones pr
 
 La siguiente es una muestra del resultado que obtendrás al ejecutar el script:
 
-![image](https://user-images.githubusercontent.com/114949611/198876619-2a6bcf85-c285-4de3-83ef-eb2ee53ecbb2.png)
+<img width="982" height="938" alt="image" src="https://github.com/user-attachments/assets/2046df37-6266-45b8-82a8-c3fb1cdceb7d" />
 
 ## Contribuciones
 
